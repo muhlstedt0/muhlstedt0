@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil ✔️
 
-<!--
-**muhlstedt0/muhlstedt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Suyanne Larissa Muhlstedt
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na liguagem JavaScript
+- Utilizo esse espaço para minha organização e conpartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+suyannemuhlstedt0@gmail.com
+
+@suyannelarissam
+
+![](
+https://media.tenor.com/EDz0pGFSIR8AAAAM/spider-man.gif)
